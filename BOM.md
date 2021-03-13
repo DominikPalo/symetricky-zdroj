@@ -18,13 +18,11 @@
 | 7905 | L7905ACV-DG | TO-220S | 1x | [L7905ACV](https://www.tme.eu/sk/details/l7905acv/stabilizatory-napatia-neregulovane/stmicroelectronics/) * | [330-023](https://www.gme.sk/stabilizator-pevneho-napeti-7905-to220) | 0,34 €
 | 7812 | L7812ACV-DG | TO-220S | 1x | [L7812ACV-DG](https://www.tme.eu/sk/details/l7812acv-dg/stabilizatory-napatia-neregulovane/stmicroelectronics/) | [330-005](https://www.gme.sk/stabilizator-pevneho-napeti-st-microelectronics-thomson-7812cv-dg-stm) | 0,39 €
 | 7912 | L7912ACV-DG | TO-220S | 1x | [L7912ACV-DG](https://www.tme.eu/sk/details/l7912acv-dg/stabilizatory-napatia-neregulovane/stmicroelectronics/) | [330-026](https://www.gme.sk/stabilizator-pevneho-napeti-taiwan-semiconductor-7912) | 0,51 €
-| C1, C8, C14, C15, C16, C17 | 100n | CK | 6x | [CC-100N](https://www.tme.eu/sk/details/cc-100n/keramicke-kondenzatory-tht-50v/sr-passives/) | [120-060](https://www.gme.sk/ck-100n-63v-y5v-rm5-08-80-20) | 0,30 € 
-| C3, C4, C5, C6, C20 | 47u | CT12/RM5 | 5x | [SS1E476M6L007PA580](https://www.tme.eu/sk/details/ss1e476m6l007pa580/elektrolyticke-kondenzatory-tht-85degc/samwha/) | [123-093](hhttps://www.gme.sk/ce-47u-16v-jam-ss-6-3x7-rm2-5-bulk) | 0,30 €
-| C9 | ? | E2,5-6 | 1x
-| C10, C11, C12, C13 | 470u/25V | CT12/RM5/⌀8 | 4x | [EEUFR1E471LB](https://www.tme.eu/sk/details/eeufr1e471lb/elektrolyticke-kondenzatory-tht-105degc/panasonic/) | [123-469](https://www.gme.sk/ce-470u-25v-samw-sd-8x12-rm3-5-ammo) | 0,60 €
-| C18, C19 | 47u/35V | E2,5-6 | 2x | [JRG-47U/35](https://www.tme.eu/sk/details/jrg-47u_35/elektrolyticke-kondenzatory-tht-105degc/jb-capacitors/jrg1v470m02500630115000b/) | [123-660](https://www.gme.sk/ce-47u-50vt-hit-ehr-6-3x11-rm2-5-bulk) | 0,12 €
-| C21 | ? | E2,5-6 | 1x
-| C22 | ? | E2,5-6 | 1x
+| C1, C8, C14, C15, C16, C17 | 100 nF | CK | 6x | [CC-100N](https://www.tme.eu/sk/details/cc-100n/keramicke-kondenzatory-tht-50v/sr-passives/) | [120-060](https://www.gme.sk/ck-100n-63v-y5v-rm5-08-80-20) | 0,30 € 
+| C3, C4, C5, C6, C20 | 47 μF | CT12/RM5 | 5x | [SS1E476M6L007PA580](https://www.tme.eu/sk/details/ss1e476m6l007pa580/elektrolyticke-kondenzatory-tht-85degc/samwha/) | [123-093](hhttps://www.gme.sk/ce-47u-16v-jam-ss-6-3x7-rm2-5-bulk) | 0,30 €
+| C9, C21, C22 | 4,7 μF | E2,5-6 | 3x | [PF2C4R7MNN6311U](https://www.tme.eu/sk/details/pf2c4r7mnn6311u/elektrolyticke-kondenzatory-tht-105degc/elite/) | [123-034](https://www.gme.sk/ce-4-7u-160v-jam-sk-6-3x11-rm2-5-bulk) | 0,27 €
+| C10, C11, C12, C13 | 470 μF / 25V | CT12/RM5/⌀8 | 4x | [EEUFR1E471LB](https://www.tme.eu/sk/details/eeufr1e471lb/elektrolyticke-kondenzatory-tht-105degc/panasonic/) | [123-469](https://www.gme.sk/ce-470u-25v-samw-sd-8x12-rm3-5-ammo) | 0,60 €
+| C18, C19 | 47 μF / 35 V | E2,5-6 | 2x | [JRG-47U/35](https://www.tme.eu/sk/details/jrg-47u_35/elektrolyticke-kondenzatory-tht-105degc/jb-capacitors/jrg1v470m02500630115000b/) | [123-660](https://www.gme.sk/ce-47u-50vt-hit-ehr-6-3x11-rm2-5-bulk) | 0,12 €
 | R1, R2 | 1R5/1W | 0411V | 2x | [1W-1R5](https://www.tme.eu/sk/details/1w-1r5/metalizovane-rezistory-tht-1w/royal-ohm/mor01sj015ja10/) | [114-489](https://www.gme.sk/rm-1r5-0309-1w-1) | 0,20 €
 | R3, R4, R6, R15 | 4k7 | 0207/2V | 4x
 | R5 | 330 | 0207/2V | 1x
