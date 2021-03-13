@@ -6,11 +6,14 @@ Repozitár obsahuje všetky potrebné iformácie k stavbe zdroja. Autorom elektr
 1. Pôvodná schéma zapojenia a PCB vo formáte EAGLE (autor: David Čada)
 1. Gerber súbory potrebné k výrobe DPS (JLCPCB, PCBWay, ...)
 1. [Zoznam použitých komponentov (BOM)](BOM.md) aj s odkazmi na distribútorov TME a GME
-1. TODO: 3D model krabičky na zdroj vhodný k tlači na 3D tlačiarni
-1. TODO: Fotodokumetáciu mojej konštrukcie
+1. 3D model krabičky na zdroj vhodný k tlači na 3D tlačiarni
+1. Fotodokumetáciu mojej konštrukcie (pridám neskôr)
 
 ## Info od autora eletkro dizajnu:
 >1. Pouze k nekomercnimu pouziti.
 >1. Pokud chcete prezentovat zdroj i jinde, tak pouze s temito podminkami pouziti + odkaz na zdroj https://youtu.be/iAIXDw9BsSQ
 >1. Rad zodpovim jakekoli dotazy na adrese cada.david zavinac gmail.com
 
+## 3D krabička
+![Krabicka](krabicka/render.png)
+![Krabicka2](krabicka/render2.png)
